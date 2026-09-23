@@ -5,8 +5,11 @@
 
 Modules:
 | [Linear Algebra](https://github.com/caesaranyogu/cognitive-ml-linear-algebra) | Perception, memory retrieval, selective attention, personality as vector spaces |
+
 | [Calculus](https://github.com/caesaranyogu/cognitive-ml-calculus) | Habit formation, behavior change trajectories, trauma as local minima |
+
 | [Probability](https://github.com/caesaranyogu/cognitive-ml-probability) | Bayes, MLE — Belief updating, anxiety as miscalibrated probability, placebo as prior strength |
+
 | [Recommender](https://github.com/caesaranyogu/cognitive-ml-recommender) | Preference formation, latent psychological factors, personalized intervention matching |
 
 ## Currently Learning
